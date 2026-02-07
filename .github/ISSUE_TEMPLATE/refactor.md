@@ -1,3 +1,11 @@
+---
+name: 개선/리팩터링(Refactor)
+about: 기존 코드나 설정을 개선하기 위한 이슈 템플릿
+title: "개선: "
+labels: ["refactor"]
+assignees: ""
+---
+
 ## 개선 대상
 - 파일 / 클래스:
 
