@@ -1,3 +1,11 @@
+---
+name: 개념 정리(Concept)
+about: 학습 중 정리해야 할 개념을 기록하는 템플릿
+title: "개념: "
+labels: ["concept"]
+assignees: ""
+---
+
 ## 개념
 - 주제:
 
