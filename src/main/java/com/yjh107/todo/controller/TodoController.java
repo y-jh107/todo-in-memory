@@ -29,7 +29,7 @@ public class TodoController {
         List<Todo> todos = todoService.findAll();
 
         if (todos == null || todos.isEmpty()) {
-            return ResponseEntity.notFound().build();
+            return ResponseEntity.noContent().build();
         }
 
         return ResponseEntity.ok(todos);
